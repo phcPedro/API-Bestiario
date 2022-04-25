@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Atronachs",
+        "descricao":"Atronachs de chamas são os mais fracos e mais comuns dos atronachs. Feitos inteiramente de fogo,têm a aparência de mulheres usando armadura de metal escuro, mas com chifres, orelhas pontudas, três dedos e dois dedões.",
+        "hp":"3",
+        "lvl":"3/36"
+    },
+    {
+        "nome": "Alduin",
+        "descricao":"Nem mesmo sabes nossa lingua, não é? Tal tua arrogância que até mesmo te aproprias do nome de Dovah! - Alduim para o Dovahkiin -- Alduim, Devoador de Mundo, também chamado assim por aguns como a forma de se referir a Akatosh, é o mais poderoso dos dragões a sobrevoar Skyrim. Ele é considerado a fonte do panteão dos Nords, assim como o arauto do seu apocalipse. Em um texto ('Shalidor's in sight' também é descrito como o 'criador da civilização dos dragões.)",
+        "hp":"14",
+        "lvl":"15/5.000"
+    },
+    {
+        "nome":"Falmer",
+        "descricao":"Os Falmer são descendentes dos antigos Elfos da Neve, e vivem nas antigas ruinas dos Dwener. Apesar  de serem cegos, seus sentidos de audição, faro e tato são extremamentes aguçados, a ponto de suplantar toda a falta de visão.",
+        "hp": "1",
+        "lvl":"1/120"
+    }
+]      
